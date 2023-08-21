@@ -1,0 +1,12 @@
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\bin\Debug\Encryptacion.exe.config
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\bin\Debug\Encryptacion.exe
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\bin\Debug\Encryptacion.pdb
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\bin\Debug\EntityFramework.dll
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\bin\Debug\EntityFramework.xml
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\obj\Debug\Encryptacion.csproj.AssemblyReference.cache
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\obj\Debug\Encryptacion.csproj.CoreCompileInputs.cache
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\obj\Debug\Encryptacion.csproj.CopyComplete
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\obj\Debug\Encryptacion.exe
+C:\Users\cabre\OneDrive\Escritorio\Practicas\Encryptacion\obj\Debug\Encryptacion.pdb
