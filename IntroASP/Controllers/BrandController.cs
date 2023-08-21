@@ -14,12 +14,8 @@ namespace IntroASP.Controllers
         {
              _context = context;
         }
-
-
-        public async Task<IActionResult> Index()
-        {
-            return View(await _context.Brands.ToListAsync());
-        }
+        public async Task<IActionResult> Index() => View(await _context.Brands.ToListAsync());
+        
 
 
     }
