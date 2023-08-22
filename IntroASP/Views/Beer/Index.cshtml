@@ -2,13 +2,17 @@
 		
 <h1>Cervezas</h1>
 
+<p>
+	<a asp-action="Create">Crear</a>
+</p>
+
 <table class="table">
 	<thead>
 		<tr>
 			<th>Nombre</th>
 			<th>Marca</th>
+			<th></th>
 		</tr>
-		<tr></tr>
 	</thead>
 	<tbody>
 		@foreach (var beer in Model)
