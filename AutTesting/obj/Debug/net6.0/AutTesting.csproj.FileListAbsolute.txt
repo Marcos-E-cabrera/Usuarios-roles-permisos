@@ -1,0 +1,14 @@
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\bin\Debug\net6.0\AutTesting.exe
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\bin\Debug\net6.0\AutTesting.deps.json
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\bin\Debug\net6.0\AutTesting.runtimeconfig.json
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\bin\Debug\net6.0\AutTesting.dll
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\bin\Debug\net6.0\AutTesting.pdb
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\obj\Debug\net6.0\AutTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\obj\Debug\net6.0\AutTesting.AssemblyInfoInputs.cache
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\obj\Debug\net6.0\AutTesting.AssemblyInfo.cs
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\obj\Debug\net6.0\AutTesting.csproj.CoreCompileInputs.cache
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\obj\Debug\net6.0\AutTesting.dll
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\obj\Debug\net6.0\refint\AutTesting.dll
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\obj\Debug\net6.0\AutTesting.pdb
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\obj\Debug\net6.0\AutTesting.genruntimeconfig.cache
+C:\Users\cabre\OneDrive\Escritorio\Practicas\AutTesting\obj\Debug\net6.0\ref\AutTesting.dll
