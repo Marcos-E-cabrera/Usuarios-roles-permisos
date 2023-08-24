@@ -1,0 +1,20 @@
+﻿@model IntroMVC.Models.User
+
+@{
+	ViewData["Title"] = "Index";
+	string nombre = "Doom";
+}
+
+<h1> Index </h1>
+<p>@nombre</p>
+
+@for (int i = 0; i < 100; i++)
+{
+	<b>@i</b>
+}
+
+<div>
+	@Model.Id <br />
+	@Model.Name <br />
+	@Model.Email <br />
+</div>

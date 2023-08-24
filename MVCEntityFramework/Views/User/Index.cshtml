@@ -1,0 +1,16 @@
+﻿@model List<MVCEntityFramework.Models.User>
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+<h1>Usuario</h1>
+
+
+@foreach( var user in Model)
+{
+	<div>
+		@user.Id <br />
+		@user.Email
+	</div>
+}
